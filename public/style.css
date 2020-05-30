@@ -1,0 +1,17 @@
+
+body {
+  margin: 0;
+}
+
+.ball {
+  background-color: black;
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  position: absolute;
+}
+.pool {
+  position: relative;
+  background-color: yellow;
+  width: 100%;
+}
